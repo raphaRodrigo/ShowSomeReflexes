@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dbe9c138ed0768c43b19b3c2e6dace74
+timeCreated: 1447729592
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dotUp: {instanceID: 0}
+  - dotDown: {instanceID: 0}
+  - dotLeft: {instanceID: 0}
+  - dotRight: {instanceID: 0}
+  - dotTopLeft: {instanceID: 0}
+  - dotBottomLeft: {instanceID: 0}
+  - dotTopRight: {instanceID: 0}
+  - dotBottomRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
